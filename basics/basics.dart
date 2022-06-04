@@ -8,7 +8,7 @@ void main() {
    This is a test
   */
 
-  //Dart support nest command
+  //Dart support nested comment
 
   /* This is a comment
   /*And inside it is
